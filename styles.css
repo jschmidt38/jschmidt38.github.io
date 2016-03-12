@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: "Helvetica";
+  font-family: Helvetica;
   font-size: 18px;
 }
 
@@ -21,7 +21,7 @@ header {
 }
 
 header h1 {
-  font-family: "HelveticaNeue-CondensedBlack";
+  font-family: HelveticaNeue-CondensedBlack;
   font-size: 4em;
 }
 
@@ -63,7 +63,7 @@ header h1 {
 }
 
 .card h2, .card p {
-  font-family: "HelveticaNeue-Thin";
+  font-family: HelveticaNeue-Thin;
   font-weight: 100;
 }
 
